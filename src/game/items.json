@@ -1,0 +1,11 @@
+[
+  { "id": "sunhat", "name": "Sun Hat", "slot": "hat", "price": 30, "assetKey": "sunhat" },
+  { "id": "cheeks", "name": "Rosy Cheeks", "slot": "face", "price": 40, "assetKey": "cheeks" },
+  { "id": "beanie", "name": "Knit Beanie", "slot": "hat", "price": 70, "assetKey": "beanie" },
+  { "id": "scarf", "name": "Cozy Scarf", "slot": "accessory", "price": 80, "assetKey": "scarf" },
+  { "id": "specs", "name": "Round Specs", "slot": "face", "price": 90, "assetKey": "specs" },
+  { "id": "balloon", "name": "Red Balloon", "slot": "accessory", "price": 120, "assetKey": "balloon" },
+  { "id": "rainbow", "name": "Rainbow", "slot": "background", "price": 150, "assetKey": "rainbow" },
+  { "id": "crown", "name": "Tiny Crown", "slot": "hat", "price": 180, "assetKey": "crown" },
+  { "id": "stars", "name": "Starry Night", "slot": "background", "price": 200, "assetKey": "stars" }
+]
